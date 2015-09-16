@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:49:45.791095
+#+TITLE: 上清眾經諸真聖秘
+#+PROPERTY: DZID  DZ0446
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，6—775 八卷 洞玄部譜祿類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
